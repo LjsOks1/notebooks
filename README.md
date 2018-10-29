@@ -1,2 +1,3 @@
 # Notebooks
 My Jupyter notebooks...
+How conflicts are mnaged in Git?
